@@ -826,11 +826,13 @@ display: none;
         padding-right: 0px;
         
     }
-   
+    .header .img img{
+        width: 20px;
+    }
     
     .header .img p{
-        font-size: 10px;
-        /* padding-left: 15px; */
+        font-size: 5px;
+        padding-left: 20px;
         color: #4F4F4F;
     }
     
@@ -838,13 +840,13 @@ display: none;
     .header .icons{
        flex: 1; 
         display: flex;
-        padding-left: 20px;
+        padding-left: 0px;
         justify-content: center;
     }
     
     .header .icons div{
         /* display: inline-block; */
-        padding-top: 10px;
+        padding-top: 0px;
         margin-top: 0px;
         padding-right: 0px;
         padding-left: 0px;
@@ -852,6 +854,7 @@ display: none;
         position: relative;
     }
     .header .icons div a i{
+        width: 3px;
         padding-right: 20px;
         text-decoration: none;
         color: #000;
@@ -860,7 +863,7 @@ display: none;
     }
     
 .header .icons div p{
-    font-size: 8px;
+    font-size: 6px;
     padding-left: 0px;
     padding-right: 9px; 
     color: #4F4F4F;
@@ -881,7 +884,7 @@ display: none;
     border-radius: 5px;
 }
 nav{
-    
+    margin-top: 0px;
     border-top: 0.5px solid #4F4F4F;
 }
 nav ul{
@@ -1170,7 +1173,7 @@ body{
 }
 .flesx{
     padding-top: 20px;
-    display: flex;
+    display: block;
 }
 
 .log0{
