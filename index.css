@@ -681,7 +681,7 @@ position: relative;
     color: #fff;
 
 }
-.container-img .images-one .img-1 strong{
+.container-img .images-one .wr-text strong{
     margin-bottom: 20px;
 }
 .container-img .images-one .img-1 img{
@@ -691,7 +691,7 @@ position: relative;
     padding-top: 10px;
 }
 .container-img .images-one .img-1 .wr-text p{
-    font-size: 9px;
+    font-size: 15px;
     padding-bottom: 10px;
 }
 .contain{
