@@ -885,7 +885,7 @@ nav{
     border-top: 0.5px solid #4F4F4F;
 }
 nav ul{
-    font-size: 3px;
+    font-size: 3.5px;
     font-family: Poppins;
     line-height: 10px;
     font-style: normal;
@@ -1087,7 +1087,7 @@ position: relative;
 }
 .container-email p{
     font-size: large;
-    padding-right: 30px;
+    padding-right: 20px;
     padding-bottom: 30px;
 }
 .container-email .form{
@@ -1116,7 +1116,7 @@ display: none;
 .footer{
     background: #333333;
     display: flex;
-    padding: 20px;
+    padding: 10px;
     font-family: Poppins;
     font-weight: normal;
     font-size: 10px;
