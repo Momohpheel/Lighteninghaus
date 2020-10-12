@@ -891,8 +891,8 @@ nav ul{
     font-style: normal;
     font-weight: 400;
     top: 10px;
-    left: 0px;
-    margin: 5px 0px 5px 5px;
+    left: 8px;
+    margin: 5px 0px 5px 9px;
     
 }
 nav ul li{
@@ -1115,18 +1115,18 @@ display: none;
 
 .footer{
     background: #333333;
-    display: block;
+    display: flex;
     padding: 20px;
     font-family: Poppins;
     font-weight: normal;
-    font-size: 5px;
+    font-size: 10px;
     line-height: 12px;
 
 }
 .firstpart{
     flex: 1;
     color: #fff;
-    
+    display: none;
 }
 .firstpart img{
     padding-left: 30px;
@@ -1178,7 +1178,7 @@ body{
 }
 .foothead{
     font-weight: bold;
-    padding-bottom: 0px;
+    padding-bottom: 6px;
 }
 
 
